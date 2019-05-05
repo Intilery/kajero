@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.intilery</groupId>
     <artifactId>kajero</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>kajero</name>
     <description>Kajero Docs for Spring Boot</description>
 
@@ -35,7 +35,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:Intilery/kajero.git</developerConnection>
-      <tag>v1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
